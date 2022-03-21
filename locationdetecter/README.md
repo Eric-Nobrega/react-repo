@@ -1,8 +1,8 @@
 # Geolocation API
 
 ## Main Application Challenges
--> Detect user's physical location
--> Detect the current month in relation to the season
+  - Detect user's physical location
+  - Detect the current month in relation to the season
 -> Text & Styling must change depending on the above two values
 -> Bypass user rejecting their location
 
