@@ -1,0 +1,14 @@
+Main Application Challenges
+-> detect user's physical location
+-> detect the current month
+-> text & styling must change depending on the above two values
+-> bypass user rejecting their location (geolocation api error)
+
+
+
+React Topics Covered:
+-> Class Components
+-> Functional Components
+-> Differences between Class & Functional
+-> State Management
+-> Conditional Rendering of Components
