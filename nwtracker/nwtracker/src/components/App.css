@@ -1,0 +1,12 @@
+#app-content {
+  margin: auto;
+  width: 90%;
+  justify-content: center;
+}
+
+#app-content_button {
+  width: 35%;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
